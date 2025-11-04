@@ -1,2 +1,7 @@
 # cybersecurity-learning-journal
-Here I document my progress, notes, and reflections on my cybersecurity journey.
+This repository highlights my growing technical skills, understanding of cybersecurity principles, and ability to apply theory through real-world practice.
+
+
+Current Focus:
+- Google Cybersecurity Professional Certificate
+- TryHackMe practical labs and learning materials.
